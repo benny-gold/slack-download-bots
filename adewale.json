@@ -1,0 +1,20 @@
+{
+    "Path":  "C:\\hubot\\adewale.json",
+    "BotAdapter":  "slack",
+    "BotDebugLog":  {
+                        "IsPresent":  false
+                    },
+    "BotDescription":  "Adewale Bot",
+    "BotPath":  "C:\\hubot\\adewale",
+    "BotOwner":  "<Owner>",
+    "LogPath":  "C:\\hubot\\Logs",
+    "BotName":  "adewale",
+    "ArgumentList":  "--adapter slack",
+    "BotExternalScriptsPath":  "C:\\hubot\\external-scripts.json",
+    "PidPath":  "C:\\hubot\\adewale.pid",
+    "EnvironmentVariables":  {
+                                 "HUBOT_ADAPTER":  "slack",
+                                 "HUBOT_SLACK_TOKEN": "<Token>",
+                                 "PORT": "8181"
+                             }
+}
